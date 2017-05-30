@@ -23,6 +23,12 @@ way to start this project is to open Visual Studio, and then choose :guilabel:`F
 :guilabel:`AWS Sample Projects`, :guilabel:`Compute and Networking`,
 :guilabel:`AWS EC2 Sample`.
 
+Testing with Visual Studio 2013 after installing AWS SDK for .Net - these projects are not available.
+There are only 2 options: AWS CloudFormation Project, AWS Lambda Function Project (Node.js)
+The first one looks promising, giving a wide range of options, but generates only a config file - no code.
+This appears to be in-development, and of no use to developers.
+
+
 Prerequisites
 =============
 
